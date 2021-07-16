@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there Supreet here...
 
-####Something about me...
+### Something about me...
 
 - 🔭 I’m currently working on Restaurant Automation System using App and Bot.
 - 🌱 I’m currently learning B.Tech, CSE with specialization in Data Analysis and Network Security.
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: The "M's" in M&Ms stand for "Mars" and "Murrie."
 
 
-####My stats...
+### My stats...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SupreetRonad)
 
