@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Something about me...
 
 - 🔭 I’m currently working on Restaurant Automation System using App and Bot.
 - 🌱 I’m currently learning B.Tech, CSE with specialization in Data Analysis and Network Security.
@@ -8,4 +8,5 @@ Here are some ideas to get you started:
       **Mail:** suppironad@gmail.com or **LinkedIn:** https://www.linkedin.com/in/supreet-ronad/
 - ⚡ Fun fact: The "M's" in M&Ms stand for "Mars" and "Murrie."
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=SupreetRonad)
 
