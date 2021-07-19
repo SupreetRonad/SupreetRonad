@@ -16,5 +16,5 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SupreetRonad)
 
-[#### Some of the apps that I've built...](https://drive.google.com/drive/folders/1Q_7CsLuHp1WM1Gpf9f7YwWtv8PVWpBsM?usp=sharing)
+[Some of the apps that I've built...](https://drive.google.com/drive/folders/1Q_7CsLuHp1WM1Gpf9f7YwWtv8PVWpBsM?usp=sharing)
 
