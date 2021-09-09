@@ -15,11 +15,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SupreetRonad)
 
-#### Some of the apps that I've built...
+#### [Some of the apps that I've built...](https://drive.google.com/drive/folders/1Q_7CsLuHp1WM1Gpf9f7YwWtv8PVWpBsM?usp=sharing)
 
-[APK + Screenshots](https://drive.google.com/drive/folders/1Q_7CsLuHp1WM1Gpf9f7YwWtv8PVWpBsM?usp=sharing)
-
-#### Portfolio built with Flutter (Under Construction)
-
-[web_potal@supreetronad](https://supreetronad.github.io/web_portal/)
+#### [Portfolio built with Flutter (Under Construction)](https://supreetronad.github.io/web_portal/)
 
