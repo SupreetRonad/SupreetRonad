@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on 
      - Restaurant Automation System using App and Bot.
-     - Expey - Social media app
+     - AgWise app as an Intern at [Digite Inc.](https://www.digite.com/)
 - 🌱 I’m currently learning B.Tech, CSE with specialization in Data Analysis and Network Security.
 - 📫 You can reach me through 
      - suppironad@gmail.com
