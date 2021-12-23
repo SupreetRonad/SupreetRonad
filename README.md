@@ -1,4 +1,8 @@
-## Hi! I'm Supreet...
+<div align="center">
+<img src="https://o.remove.bg/downloads/94558181-535b-4ad8-a26e-70f89b321f8a/4bea082c266f89a683119adc76715075-removebg-preview.png" width="400"><br>
+<h1>Hi! I'm Supreet..</h1>
+</div>
+
 ### Tech Geek | Programmer | Contributor
 
 #### Something about me...
