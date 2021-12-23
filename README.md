@@ -5,8 +5,6 @@
 
 ### Tech Geek | Programmer | Contributor
 
-#### Something about me...
-
 I’m a B.Tech, CSE Undergraduate with specialization in Data Analysis and Network Security at [PES University, Bengaluru](https://pes.edu/).
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SupreetRonad)
