@@ -9,5 +9,9 @@ I’m a B.Tech, CSE Undergraduate with specialization in Data Analysis and Netwo
 
 ### [Apps that I've built...](https://drive.google.com/drive/folders/1Q_7CsLuHp1WM1Gpf9f7YwWtv8PVWpBsM?usp=sharing)
 ### [Google Developer's Accont](https://play.google.com/store/apps/dev?id=5636646902925498070)
-###### [G-mail](suppironad@gmail.com) . [LinkedIn](https://www.linkedin.com/in/supreet-ronad/) . [Portfolio](https://supreetronad.github.io/web_portal/) . [YouTube](https://www.youtube.com/channel/UC0ahUe7606gvjh6rKZO1pHQ)
+
+<a href="mailto:sathviksaya@gmail.com"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.svg" width="15" title="Gmail"/></a> - suppironad@gmail.com
+
+<a href="https://www.linkedin.com/in/supreet-ronad/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="15" title="LinkedIn" /></a> . <a href="https://www.instagram.com/supreetronad/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="15" title="Instagram" /></a> . <a href="https://www.github.com/supreetronad/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="15" title="GitHub" /></a> . <a href="https://supreetronad.github.io/web_portal/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_internet.svg" width="15" title="Portfolio" /></a>
+</pre>
 
