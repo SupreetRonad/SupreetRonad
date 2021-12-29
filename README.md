@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/646089/screenshots/12669152/media/98312fb644c9dad5b8276628f9af61dd.gif" width="400"><br>
+<img src="https://i.pinimg.com/originals/f5/8a/37/f58a37e92275010d4725b957b50b87e6.gif" width="400"><br>
 <h1>Hi! I'm Supreet..</h1>
 <h3>Tech Geek | Programmer | Contributor</h3>
 
