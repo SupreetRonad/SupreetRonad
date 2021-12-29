@@ -1,5 +1,5 @@
 <div align="center">
-<img style="border-radius: 50%;" src="https://i.pinimg.com/originals/f5/8a/37/f58a37e92275010d4725b957b50b87e6.gif" width="400"><br>
+<img src="https://github.com/SupreetRonad/SupreetRonad/blob/main/hi.png" width="400"><br>
 <h1>Hi! I'm Supreet..</h1>
 <h3>Tech Geek | Programmer | Contributor</h3>
 
