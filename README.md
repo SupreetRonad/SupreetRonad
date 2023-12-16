@@ -4,7 +4,7 @@
 <h3>Tech Geek | Programmer | Contributor</h3>
 
 
-I’m a B.Tech, CSE Undergraduate with specialization in Data Analysis and Network Security at [PES University, Bengaluru](https://pes.edu/).
+I’m currently working as Software Engineer I at [Akamai Technologies, India](https://www.akamai.com/).
 <br/>
 <br/>
 <br/>
