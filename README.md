@@ -38,6 +38,23 @@ I've completed my 11th and 12th standard at Tungal PU Sceince College, Vijayapur
 
 <h6>Tech Stack - HTML, JavaScript, Apex, SQL, Salesforce, Python</h6>
 
+### Application Developer Intern 
+[@Digite Inc.](https://www.digite.com/) (Aug 2021 – Nov 2021) <br/>
+<div> 
+  - Worked on building App for Farmers to help with best agriculture practice and to keep track of their agricultural process.
+</div>
+
+<h6>Tech Stack - Flutter, Dart, Firebase, MangoDB, Python</h6>
+
+### Application Developer Intern 
+[@The iNext Store](https://www.digite.com/) (June 2021 – July 2021) <br/>
+<div> 
+  - Built an app using Flutter for Internal management of the store. <br/>
+  - Some of the features include Stock & Demand report, GPS attendance, API data, Face recognition etc.
+</div>
+
+<h6>Tech Stack - Flutter, Dart, Firebase, Google APIs</h6>
+
 ### <a href="https://drive.google.com/drive/folders/1Q_7CsLuHp1WM1Gpf9f7YwWtv8PVWpBsM?usp=sharing"><img src="icons/apps.png" width="19" title="Apps" /></a> [Apps that I've built...](https://drive.google.com/drive/folders/1Q_7CsLuHp1WM1Gpf9f7YwWtv8PVWpBsM?usp=sharing)
 
 ### <a href="https://play.google.com/store/apps/dev?id=5636646902925498070"><img src="icons/playstore.png" width="17" title="Playstore" /></a> [Playstore Dashboard](https://play.google.com/store/apps/dev?id=5636646902925498070)
