@@ -28,7 +28,7 @@ I've completed my 11th and 12th standard at Tungal PU Sceince College, Vijayapur
 
 ## Experience
 ### Software Engineer 
-[@Akamai Technologies, India](https://www.akamai.com/) (July 2022 - Current) <br/>
+[@Akamai Technologies, India](https://www.akamai.com/) (July 2022 - Sep 2024) <br/>
 <div> 
   - Worked on Improving, Creating and Maintaining new features and Applications. <br/>
   - Helped upgrade the existing MuleSoft server apps to new version (Mule 3.9.5 to Mule 4.4.0). <br/>
