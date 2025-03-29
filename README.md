@@ -6,7 +6,7 @@
 
 Hi, I'm Supreet Ronad, a Software Engineer at [Akamai Technologies, India](https://www.akamai.com/).
 
-I'm currently part of Global Solutions Service team under Enterprise Application department at Akamai. I currently work on Salesforce Platform as a developer helping my team create, improve and maintain new feature and apps for the organization. My tech stack currently include HTML, CSS, JavaScript, Apex, SQL, MuleSoft and Python.
+Currently studying MSc in International Information Systems at Freidrich Alexander University Erlangen-Nürnberg.
 
 <br/><br/>
 
