@@ -6,14 +6,18 @@
 
 Hi, I'm Supreet Ronad, a Software Engineer at [Akamai Technologies, India](https://www.akamai.com/).
 
-Currently studying MSc in International Information Systems at Freidrich Alexander University Erlangen-Nürnberg.
+Currently studying MSc in International Information Systems at Friedrich-Alexander-Universität, Erlangen-Nürnberg.
 
 <br/><br/>
 
 ## Education
 
+### Master of Science, International Information Systems
+I'm currently studying Masters at [Friedrich-Alexander-Universität, Erlangen-Nürnberg](https://www.fau.de/) (2024 - current) focusing on the bridge between IT and Management with majors in International Information Systems. <br/>
+<br/>
+
 ### Bachelor of Technology, Computer Science
-I've completed my Bachelors at [PES University, Bengaluru](https://pes.edu/) (2018 - 2022) with Manjors in Computer Sceince Engineering with an additional specialization in Data Analytics and Network Security. <br/>
+I've completed my Bachelors at [PES University, Bengaluru](https://pes.edu/) (2018 - 2022) with Majors in Computer Sceince Engineering with an additional specialization in Data Analytics and Network Security. <br/>
 CGPA - 8.54
 <br/>
 
