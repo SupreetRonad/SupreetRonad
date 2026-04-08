@@ -27,6 +27,15 @@ I've completed my 11th and 12th standard at Tungal PU Sceince College, Vijayapur
 <br/><br/>
 
 ## Experience
+### Working Student in Portfolio Management  
+[@Siemens AG, Nürnberg, Germany]([https://www.akamai.com/](https://www.siemens.com/de-de/)) (Oct 2025 - Present) <br/>
+<div> 
+  - Enhanced business transparency by 40% and improved readability by 60% through the automation of business processes using Power Apps and Power BI dashboards and reports for business intelligence and data analytics.
+  - Prepared organizational knowledge for GenAI integration and documented processes for workflow optimization.
+</div>
+
+<h6>Tech Stack - Power BI, DAX, Power Query</h6>
+
 ### Software Engineer 
 [@Akamai Technologies, India](https://www.akamai.com/) (July 2022 - Sep 2024) <br/>
 <div> 
